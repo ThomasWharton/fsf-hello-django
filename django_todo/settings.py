@@ -29,7 +29,10 @@ SECRET_KEY = 'django-insecure-y9)*n9ex59i2_-7f=i-0gwpr**i8wfb84*v@!wexiqb+hjbe%x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-thomaswhart-fsfhellodja-us5t968dxnz.ws-eu104.gitpod.io']
+ALLOWED_HOSTS = [
+    '8000-thomaswhart-fsfhellodja-us5t968dxnz.ws-eu104.gitpod.io'
+    'django-todo-app-tw-d21d764f1a4e.herokuapp.com'
+    ]
 
 
 # Application definition
