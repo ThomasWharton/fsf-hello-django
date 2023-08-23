@@ -32,7 +32,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '8000-thomaswhart-fsfhellodja-us5t968dxnz.ws-eu104.gitpod.io'
     'django-todo-app-tw-d21d764f1a4e.herokuapp.com'
-    ]
+]
 
 
 # Application definition
